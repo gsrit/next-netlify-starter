@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my Page-Thank-You-So-Much" />
+        <Header title="Test Change on my page Welcome to my Page-Thank-You-So-Much" />
         <p className="description">
           Test-Edit-Webpage <code>pages/index.js</code>
         </p>
